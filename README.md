@@ -7,7 +7,7 @@
 </p>
 
 This is the code for the ICRA24 paper **Contrastive Initial State Buffer for Reinforcement Learning**
-([PDF](https://rpg.ifi.uzh.ch/docs/Arxiv23_Messikommer.pdf)) by [Nico Messikommer](https://messikommernico.github.io/), [Yunlong Song](https://yun-long.github.io/), and [Davide Scaramuzza](http://rpg.ifi.uzh.ch/people_scaramuzza.html).
+([PDF](https://rpg.ifi.uzh.ch/docs/ICRA24_Messikommer.pdf)) by [Nico Messikommer](https://messikommernico.github.io/), [Yunlong Song](https://yun-long.github.io/), and [Davide Scaramuzza](http://rpg.ifi.uzh.ch/people_scaramuzza.html).
 For an overview of our method, check out our [video](https://youtu.be/RB7mDq2fhho).
 
 If you use any of this code, please cite the following publication:
